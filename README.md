@@ -58,14 +58,6 @@ Customer-Behaviour-Analysis/
 
 ---
 
-## **📊 Dashboard Preview**
-
-![Dashboard Preview](images/dashboard_preview.png)
-
-> *Interactive dashboard built in Power BI showing customer distribution, revenue trends, and category performance.*
-
----
-
 ## **📈 Key Metrics**
 
 * **Total Customers:** 3.9K
